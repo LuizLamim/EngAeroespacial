@@ -2,6 +2,11 @@
 \usepackage[utf8]{inputenc}
 
 \usepackage[brazil]{babel}
+\usepackage[lmargin=3cm,tmargin=3cm,rmargin=2cm,bmargin=2cm]{geometry}
+\usepackage{amsmath,amsthm,amsfonts,amssymb,dsfont,mathtools}
+\usepackage{blindtext}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
 
 \title{Projeto}
 \author{LuizLamim}
@@ -11,6 +16,38 @@
 
 \maketitle
 
-\section{introduction}
+\section{Equações matemáticas LaTeX}
+\subsection{Introdução}
+    Nesse artigo irei plotar alguns exemplos de gráficos com eixo x e y (duas dimensãoes), com eixo
+x, y, e z (três dimensões), equações e algumas matrizes. O Objetivo principal é exemplificar algumas
+funções do editor de texto Latex. Tal ferramenta é fundamental no desenvolvimento de 
+artigos científicos e trabalhos no campo da Engenharia de forma mais eficiente. Devido ao grande
+número de possibilidades, formatações e pacotes da ferramenta é possível formar documentos complexos como será
+mostrado a seguir. 
+
+\begin{center}
+\textbf{   Pacotes em Latex (usepackages) são parecidos com bibliotecas em programação. 
+    São conjuntos de funções específicas que devem ser previamente invocadas antes de serem utilizadas. 
+    Um pacote ou biblioteca podem ser desenvolvido na liguagem de acordo com o surgimento de uma necessidade
+    específica. Todo esse universo de possibilidades dá versatilidade ao autor. }
+\end{center}
+
+\subsection{Equações e plot de gráficos}
+
+Esse é um exemplo de introdução de imagens no Latex. É possível formatar o tamanho e indicar o local 
+da imagem.
+
+\begin{figure}[ht]
+\centering
+\includegraphics[width=10cm]{figuras/bigbang.jpeg}
+\caption{Expansão do universo.}
+\label{fig01}
+\end{figure}
+
+\newpage
+\imput{Cabeca.tex}
+\headcm \todayr
+
+
 
 \end{document}
