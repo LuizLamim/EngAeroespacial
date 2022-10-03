@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.10.2)  3 OCT 2022 14:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.10.2)  3 OCT 2022 15:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -462,20 +462,20 @@ File: l3backend-pdftex.def 2022-08-30 L3 backend support: PDF output (pdfTeX)
 ) (latex.aux)
 \openout1 = `latex.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -530,316 +530,36 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (C:\Users\luizb\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
+Package pgfplots notification 'compat/show suggested version=true': document has been generated with the most recent feature set (\pgfplotsset{compat=1.18}).
 
-Package pgfplots Warning: running in backwards compatibility mode (unsuitable tick labels; missing features). Consider writing \pgfplotsset{compat=1.18} into your preamble.
- on input line 19.
-
-LaTeX Font Info:    Trying to load font information for U+msa on input line 21.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 22.
 (C:\Users\luizb\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 21.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 22.
  (C:\Users\luizb\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 <figuras/bigbang.jpeg, id=4, 1284.8pt x 803.0pt>
 File: figuras/bigbang.jpeg Graphic file (type jpg)
 <use figuras/bigbang.jpeg>
-Package pdftex.def Info: figuras/bigbang.jpeg  used on input line 46.
+Package pdftex.def Info: figuras/bigbang.jpeg  used on input line 47.
 (pdftex.def)             Requested size: 284.52756pt x 177.82455pt.
  [1
 
-{C:/Users/luizb/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./figuras/bigbang.jpeg>]
-c:/Users/luizb/Desktop/EngAeroespacial/latex.tex:86: Undefined control sequence.
-<recently read> \bigin 
-                       
-l.86 \bigin
-           {axis}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+{C:/Users/luizb/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./figuras/bigbang.jpeg>] [2] (latex.aux) ) 
+Here is how much of TeX's memory you used:
+ 26302 strings out of 475389
+ 667946 string characters out of 2777000
+ 1453533 words of memory out of 3000000
+ 47253 multiletter control sequences out of 15000+600000
+ 485765 words of font info for 73 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 99i,9n,103p,776b,2064s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\luizb\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\luizb\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx0800.pk> <C:\Users\luizb\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0800.pk> <C:\Users\luizb\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\luizb\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\luizb\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\luizb\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\luizb\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\luizb\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm2074.pk><C:/Users/luizb/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/luizb/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/luizb/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/luizb/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/luizb/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/luizb/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/luizb/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on latex.pdf (2 pages, 299117 bytes).
+PDF statistics:
+ 254 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 18 words of extra memory for PDF output out of 10000 (max. 10000000)
 
-Missing character: There is no a in font nullfont!
-Missing character: There is no x in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no s in font nullfont!
-c:/Users/luizb/Desktop/EngAeroespacial/latex.tex:87: Undefined control sequence.
-l.87 \addplot
-             {x^2}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-Missing character: There is no x in font nullfont!
-c:/Users/luizb/Desktop/EngAeroespacial/latex.tex:87: Missing $ inserted.
-<inserted text> 
-                $
-l.87 \addplot{x^
-                2}
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-c:/Users/luizb/Desktop/EngAeroespacial/latex.tex:87: Extra }, or forgotten $.
-l.87 \addplot{x^2}
-                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-c:/Users/luizb/Desktop/EngAeroespacial/latex.tex:88: Undefined control sequence.
-\endpgfplots@environment@opt ...ctiveplothandlers 
-                                                  \pgfplots@set@options@afte...
-l.88 \end{axis}
-               
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-c:/Users/luizb/Desktop/EngAeroespacial/latex.tex:88: Missing \endcsname inserted.
-<to be read again> 
-                   \pgfcrdmth@x 
-l.88 \end{axis}
-               
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-c:/Users/luizb/Desktop/EngAeroespacial/latex.tex:88: Extra \endcsname.
-\pgfplotscoordmath ...@#1\endcsname @#2\endcsname 
-                                                  
-l.88 \end{axis}
-               
-I'm ignoring this, since I wasn't doing a \csname.
-
-c:/Users/luizb/Desktop/EngAeroespacial/latex.tex:88: Missing \endcsname inserted.
-<to be read again> 
-                   \pgfcrdmth@x 
-l.88 \end{axis}
-               
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-c:/Users/luizb/Desktop/EngAeroespacial/latex.tex:88: Extra \endcsname.
-\pgfplotscoordmath ...@#1\endcsname @#2\endcsname 
-                                                  
-l.88 \end{axis}
-               
-I'm ignoring this, since I wasn't doing a \csname.
-
-c:/Users/luizb/Desktop/EngAeroespacial/latex.tex:88: Missing \endcsname inserted.
-<to be read again> 
-                   \pgfcrdmth@y 
-l.88 \end{axis}
-               
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-c:/Users/luizb/Desktop/EngAeroespacial/latex.tex:88: Extra \endcsname.
-\pgfplotscoordmath ...@#1\endcsname @#2\endcsname 
-                                                  
-l.88 \end{axis}
-               
-I'm ignoring this, since I wasn't doing a \csname.
-
-c:/Users/luizb/Desktop/EngAeroespacial/latex.tex:88: Missing \endcsname inserted.
-<to be read again> 
-                   \pgfcrdmth@y 
-l.88 \end{axis}
-               
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-c:/Users/luizb/Desktop/EngAeroespacial/latex.tex:88: Extra \endcsname.
-\pgfplotscoordmath ...@#1\endcsname @#2\endcsname 
-                                                  
-l.88 \end{axis}
-               
-I'm ignoring this, since I wasn't doing a \csname.
-
-c:/Users/luizb/Desktop/EngAeroespacial/latex.tex:88: Missing \endcsname inserted.
-<to be read again> 
-                   \pgfcrdmth@x 
-l.88 \end{axis}
-               
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-c:/Users/luizb/Desktop/EngAeroespacial/latex.tex:88: Extra \endcsname.
-\pgfplotscoordmath ...@#1\endcsname @#2\endcsname 
-                                                  
-l.88 \end{axis}
-               
-I'm ignoring this, since I wasn't doing a \csname.
-
-c:/Users/luizb/Desktop/EngAeroespacial/latex.tex:88: Missing \endcsname inserted.
-<to be read again> 
-                   \pgfcrdmth@y 
-l.88 \end{axis}
-               
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-c:/Users/luizb/Desktop/EngAeroespacial/latex.tex:88: Extra \endcsname.
-\pgfplotscoordmath ...@#1\endcsname @#2\endcsname 
-                                                  
-l.88 \end{axis}
-               
-I'm ignoring this, since I wasn't doing a \csname.
-
-c:/Users/luizb/Desktop/EngAeroespacial/latex.tex:88: Missing number, treated as zero.
-<to be read again> 
-                   \pgfplots@@min 
-l.88 \end{axis}
-               
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-c:/Users/luizb/Desktop/EngAeroespacial/latex.tex:88: Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \pgfplots@@min 
-l.88 \end{axis}
-               
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-c:/Users/luizb/Desktop/EngAeroespacial/latex.tex:88: Missing number, treated as zero.
-<to be read again> 
-                   \pgfplots@@max 
-l.88 \end{axis}
-               
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-c:/Users/luizb/Desktop/EngAeroespacial/latex.tex:88: Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \pgfplots@@max 
-l.88 \end{axis}
-               
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-c:/Users/luizb/Desktop/EngAeroespacial/latex.tex:88: Missing \endcsname inserted.
-<to be read again> 
-                   \pgfcrdmth@x 
-l.88 \end{axis}
-               
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-c:/Users/luizb/Desktop/EngAeroespacial/latex.tex:88: Extra \endcsname.
-\pgfplotscoordmath ...@#1\endcsname @#2\endcsname 
-                                                  
-l.88 \end{axis}
-               
-I'm ignoring this, since I wasn't doing a \csname.
-
-c:/Users/luizb/Desktop/EngAeroespacial/latex.tex:88: Missing \endcsname inserted.
-<to be read again> 
-                   \pgfcrdmth@x 
-l.88 \end{axis}
-               
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-c:/Users/luizb/Desktop/EngAeroespacial/latex.tex:88: Extra \endcsname.
-\pgfplotscoordmath ...@#1\endcsname @#2\endcsname 
-                                                  
-l.88 \end{axis}
-               
-I'm ignoring this, since I wasn't doing a \csname.
-
-
-Package pgfplots Warning: Axis range for axis x is approximately empty; enlarging it (it is [\pgfplots@ymax :\pgfplots@ymax ]) on input line 88.
-
- [warning /pgfplots/warning/approx empty range enlarged]
-c:/Users/luizb/Desktop/EngAeroespacial/latex.tex:88: Missing number, treated as zero.
-<to be read again> 
-                   \pgfplots@@min 
-l.88 \end{axis}
-               
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-c:/Users/luizb/Desktop/EngAeroespacial/latex.tex:88: Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \pgfplots@@min 
-l.88 \end{axis}
-               
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-c:/Users/luizb/Desktop/EngAeroespacial/latex.tex:88: Missing number, treated as zero.
-<to be read again> 
-                   \pgfplots@@max 
-l.88 \end{axis}
-               
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-c:/Users/luizb/Desktop/EngAeroespacial/latex.tex:88: Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \pgfplots@@max 
-l.88 \end{axis}
-               
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-c:/Users/luizb/Desktop/EngAeroespacial/latex.tex:88: Missing \endcsname inserted.
-<to be read again> 
-                   \pgfcrdmth@y 
-l.88 \end{axis}
-               
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-c:/Users/luizb/Desktop/EngAeroespacial/latex.tex:88: Extra \endcsname.
-\pgfplotscoordmath ...@#1\endcsname @#2\endcsname 
-                                                  
-l.88 \end{axis}
-               
-I'm ignoring this, since I wasn't doing a \csname.
-
-c:/Users/luizb/Desktop/EngAeroespacial/latex.tex:88: Missing \endcsname inserted.
-<to be read again> 
-                   \pgfcrdmth@y 
-l.88 \end{axis}
-               
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-c:/Users/luizb/Desktop/EngAeroespacial/latex.tex:88: Extra \endcsname.
-\pgfplotscoordmath ...@#1\endcsname @#2\endcsname 
-                                                  
-l.88 \end{axis}
-               
-I'm ignoring this, since I wasn't doing a \csname.
-
-
-Package pgfplots Warning: Axis range for axis y is approximately empty; enlarging it (i
