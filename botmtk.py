@@ -7,5 +7,8 @@ class MyClient(discord.Client):
     async def on_message(self, message):
         print('Message from {0.author}: {0.content}'.format(message))
 
+    if message.content == '!teste':
+        await message.author.send('Mensagem teste!')
+
 client = MyClient()
-client.run('MTAyNTQ4OTQxNzY1MTEwNTgwMw.Gl1u7R.o4LJcD9CNyIunJkMCGt3NrGw_etoVWJ7C0B7jg')
+client.run('MTAyNTQ4OTQxNzY1MTEwNTgwMw.GZlQ4J.iY5ckLTVszqe1SweWAxY74Im7-5KgSivG5oKUc')
