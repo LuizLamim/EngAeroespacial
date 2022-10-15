@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1664821765 "c:/Users/luizb/Desktop/EngAeroespacial/latex.tex" "latex.pdf" "latex" 1664821768
+["pdflatex"] 1665076649 "c:/Users/luizb/Desktop/EngAeroespacial/latex.tex" "latex.pdf" "latex" 1665076652
   "C:/Users/luizb/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1664816523 81068 299f700eb05b1217173e62b88b513bd0 ""
   "C:/Users/luizb/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx0800.pk" 1664812833 19872 1ee3b9000f527e19db511dc96f94c7ad ""
   "C:/Users/luizb/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1000.pk" 1664816045 25420 c8b70a24ca38b9bda28de5fcd09a53a8 ""
@@ -191,10 +191,10 @@
   "C:/Users/luizb/AppData/Local/Programs/MiKTeX/tex/latex/tools/calc.sty" 1636710260 10214 00ce62e730d0cfe22b35e8f1c84949c7 ""
   "C:/Users/luizb/AppData/Local/Programs/MiKTeX/tex/latex/tools/xspace.sty" 1636710260 4545 d84d0b20a11b9c36c6ecf45697be591c ""
   "C:/Users/luizb/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
-  "c:/Users/luizb/Desktop/EngAeroespacial/latex.tex" 1664821761 2659 2ac362349562f0168a3d0058d9272931 ""
+  "c:/Users/luizb/Desktop/EngAeroespacial/latex.tex" 1665076648 2659 5b373d4a742f723b832ed6eeceeb5546 ""
   "figuras/bigbang.jpeg" 1664809794 148777 ea2935bf41272f89e47ad5b910083482 ""
-  "latex.aux" 1664821767 1110 380d645d8beda8806d77a9f1c91f7c66 "pdflatex"
-  "latex.tex" 1664821761 2659 2ac362349562f0168a3d0058d9272931 ""
+  "latex.aux" 1665076652 1110 380d645d8beda8806d77a9f1c91f7c66 "pdflatex"
+  "latex.tex" 1665076648 2659 5b373d4a742f723b832ed6eeceeb5546 ""
   (generated)
   "latex.aux"
   "latex.log"
